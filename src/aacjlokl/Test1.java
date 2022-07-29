@@ -7,5 +7,7 @@ public class Test1 {
         System.out.println("hello java  v3");
         System.out.println("最新修改");
         System.out.println("代码又修改了");
+        System.out.println("代码又有被修改了");
+        System.out.println("最新修改");
     }
 }
